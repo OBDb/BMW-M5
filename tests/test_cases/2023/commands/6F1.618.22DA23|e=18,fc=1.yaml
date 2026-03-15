@@ -12,3 +12,33 @@ test_cases:
   response: |-
     618F1100762DA230000
     618F12107D5FFFFFFFF
+- expected_values:
+    BMW_ODO: 16048
+    BMW_ODO_LOWRES: 16048
+  response: |-
+    618F1100762DA230000
+    618F12107D6FFFFFFFF
+- expected_values:
+    BMW_ODO: 16056
+    BMW_ODO_LOWRES: 16056
+  response: |-
+    618F1100762DA230000
+    618F12107D7FFFFFFFF
+- expected_values:
+    BMW_ODO: 16064
+    BMW_ODO_LOWRES: 16064
+  response: |-
+    618F1100762DA230000
+    618F12107D8FFFFFFFF
+- expected_values:
+    BMW_ODO: 16080
+    BMW_ODO_LOWRES: 16080
+  response: |-
+    618F1100762DA230000
+    618F12107DAFFFFFFFF
+- expected_values:
+    BMW_ODO: 16088
+    BMW_ODO_LOWRES: 16088
+  response: |-
+    618F1100762DA230000
+    618F12107DBFFFFFFFF
