@@ -16,7 +16,28 @@ test_cases:
   response: 612F10562586F0B00
 - expected_values:
     BMW_EOP: 11
+  response: |-
+    612F10562586F0B79
+    612F1100F41347BA77F
+    612F121DC38743E7F9C
+    612F1220679087FFFFF
+- expected_values:
+    BMW_EOP: 11
   response: 612F10562586F0BFF
+- expected_values:
+    BMW_EOP: 12
+  response: |-
+    612F10562586F0C27
+    612F1100F4134820080
+    612F12107387FD77FFD
+    612F12206830884FFFF
+- expected_values:
+    BMW_EOP: 13
+  response: |-
+    612F10562586F0D73
+    612F1100F4134FFFF81
+    612F1216538FFFF8230
+    612F12206800880FFFF
 - expected_values:
     BMW_EOP: 14
   response: |-
@@ -25,8 +46,13 @@ test_cases:
     612F121C1387D477FEA
     612F122067E0880FFFF
 - expected_values:
+    BMW_EOP: 18
+  response: |-
+    612F10562586F1225
+    612F103413353
+- expected_values:
     BMW_EOP: 25
-  response: 612F10562586F19BD
+  response: 612F10562586F199D
 - expected_values:
     BMW_EOP: 12
   response: |-
@@ -50,6 +76,18 @@ test_cases:
     612F12206850885FFFF
     612F10562586F105B
 - expected_values:
+    BMW_EOP: 12
+  response: |-
+    612F121F2387EB77FF5
+    612F122067B087DFFFF
+    612F10562586F0C68
+- expected_values:
+    BMW_EOP: 13
+  response: |-
+    612F121F73881A08005
+    612F12206800880FFFF
+    612F10562586F0D5A
+- expected_values:
     BMW_EOP: 14
   response: |-
     612F121FC387E5F7FF2
@@ -68,7 +106,18 @@ test_cases:
     612F122067E087EFFFF
     612F10562586F0CC5
 - expected_values:
+    BMW_EOP: 17
+  response: |-
+    612F122067F087EFFFF
+    612F10562586F112C
+- expected_values:
     BMW_EOP: 15
   response: |-
     612F1220680087DFFFF
     612F10562586F0F72
+- expected_values:
+    BMW_EOP: 10
+  response: |-
+    612F123003B0E9A0105
+    612F124C96E00C5FFFF
+    612F10562586F0A98
