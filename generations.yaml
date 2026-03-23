@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/BMW_M5"
+
 generations:
   - name: "First Generation (E28)"
     start_year: 1984
@@ -15,7 +18,7 @@ generations:
     description: "Often considered the definitive M5, the E39 introduced V8 power to the lineup with a 4.9L naturally aspirated engine producing 400 HP, paired exclusively with a six-speed manual transmission. Available only as a sedan, it featured more aggressive styling than its predecessors while maintaining the understated approach. The E39 M5 is celebrated for its perfect balance of performance, handling, comfort, and practicality, representing a high point in the model's development before the introduction of more complex electronic systems."
 
   - name: "Fourth Generation (E60/E61)"
-    start_year: 2005
+    start_year: 2004
     end_year: 2010
     description: "The controversial E60 M5 featured a Formula 1-inspired 5.0L V10 engine producing 500 HP, paired with a seven-speed SMG automated manual transmission (a traditional six-speed manual was later offered in some markets). Available as a sedan (E60) and for the first time as a factory wagon (E61) in some markets, it represented a technological tour de force with electronic damper control, variable M differential, and multiple engine and transmission settings. While initially polarizing due to its complex electronics and Bangle-designed styling, this generation has gained appreciation for its unique, high-revving powertrain."
 
@@ -29,7 +32,7 @@ generations:
     end_year: 2023
     description: "The F90 M5 featured an enhanced 4.4L twin-turbo V8 producing 600 HP (625 HP in Competition and CS variants), paired with an eight-speed automatic transmission. The biggest innovation was the addition of M xDrive all-wheel drive with a rear-wheel drive mode, providing both all-weather capability and traditional M car handling characteristics. Technology advanced with configurable drive modes, a digital instrument cluster, and enhanced driver assistance features. The limited-production CS variant offered reduced weight and enhanced performance."
 
-  - name: "Seventh Generation (G90)"
-    start_year: 2023
+  - name: "Seventh Generation (G90/G99)"
+    start_year: 2024
     end_year: null
-    description: "The latest M5 continues the evolution with a plug-in hybrid powertrain combining a twin-turbo V8 with electric motors for increased performance and efficiency. Power is expected to exceed 700 HP, maintaining BMW M's performance focus while addressing emissions regulations. The exterior design features more aggressive styling, while the interior offers the latest technology including BMW's curved display. The seventh-generation M5 represents the model's adaptation to electrification while maintaining its position as BMW's high-performance executive sedan."
+    description: "The latest M5 features a plug-in hybrid powertrain combining a 4.4L twin-turbo V8 with an electric motor for a combined output of 535 kW (725 PS / 717 HP) and 1000 Nm of torque. Available for the first time as both a sedan (G90) and factory-built wagon (G99), with the M5 Touring now offered in North America for the first time. The M xDrive all-wheel drive system features a rear-wheel drive mode. Production began in July 2024, with global market launch in November 2024. The seventh-generation M5 represents the model's adaptation to plug-in hybrid electrification while maintaining its position as BMW's high-performance executive sedan."
