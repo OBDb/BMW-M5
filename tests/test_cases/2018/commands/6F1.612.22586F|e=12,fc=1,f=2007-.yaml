@@ -1,0 +1,29 @@
+command_id: 6F1.612.22586F|e=12,fc=1,f=2007-
+test_cases:
+- expected_values:
+    M5_EOP: 1.024
+  response: 612F10562586F0400
+- expected_values:
+    M5_EOP: 1.027
+  response: 612F10562586F0403
+- expected_values:
+    M5_EOP: 2.723
+  response: 612F10562586F0AA3
+- expected_values:
+    M5_EOP: 2.734
+  response: 612F10562586F0AAE
+- expected_values:
+    M5_EOP: 2.755
+  response: 612F10562586F0AC3
+- expected_values:
+    M5_EOP: 2.771
+  response: 612F10562586F0AD3
+- expected_values:
+    M5_EOP: 2.784
+  response: 612F10562586F0AE0
+- expected_values:
+    M5_EOP: 2.948
+  response: 612F10562586F0B84
+- expected_values:
+    M5_EOP: 3.291
+  response: 612F10562586F0CDB

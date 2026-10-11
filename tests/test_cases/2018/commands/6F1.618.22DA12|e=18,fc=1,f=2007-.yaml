@@ -1,0 +1,14 @@
+command_id: 6F1.618.22DA12|e=18,fc=1,f=2007-
+test_cases:
+- expected_values:
+    M5_ATF_TEMP: 31
+  response: 618F10562DA12004F
+- expected_values:
+    M5_ATF_TEMP: 40
+  response: 618F10562DA120058
+- expected_values:
+    M5_ATF_TEMP: 41
+  response: 618F10562DA120059
+- expected_values:
+    M5_ATF_TEMP: 42
+  response: 618F10562DA12005A
