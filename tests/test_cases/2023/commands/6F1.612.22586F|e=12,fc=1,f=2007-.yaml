@@ -1,0 +1,123 @@
+command_id: 6F1.612.22586F|e=12,fc=1,f=2007-
+test_cases:
+- expected_values:
+    M5_EOP: 3.003
+  response: |-
+    612F105624AB1083C
+    612F10562586F0BBB
+    612F1100F4134FFFF82
+    612F1217738FFFF8288
+    612F12206800880FFFF
+- expected_values:
+    M5_EOP: 0.873
+  response: 612F10562586F0369
+- expected_values:
+    M5_EOP: 2.816
+  response: 612F10562586F0B00
+- expected_values:
+    M5_EOP: 2.937
+  response: |-
+    612F10562586F0B79
+    612F1100F41347BA77F
+    612F121DC38743E7F9C
+    612F1220679087FFFFF
+- expected_values:
+    M5_EOP: 3.071
+  response: 612F10562586F0BFF
+- expected_values:
+    M5_EOP: 3.111
+  response: |-
+    612F10562586F0C27
+    612F1100F4134820080
+    612F12107387FD77FFD
+    612F12206830884FFFF
+- expected_values:
+    M5_EOP: 3.443
+  response: |-
+    612F10562586F0D73
+    612F1100F4134FFFF81
+    612F1216538FFFF8230
+    612F12206800880FFFF
+- expected_values:
+    M5_EOP: 3.794
+  response: |-
+    612F10562586F0ED2
+    612F1100F413478567F
+    612F121C1387D477FEA
+    612F122067E0880FFFF
+- expected_values:
+    M5_EOP: 4.645
+  response: |-
+    612F10562586F1225
+    612F103413353
+- expected_values:
+    M5_EOP: 6.557
+  response: 612F10562586F199D
+- expected_values:
+    M5_EOP: 3.246
+  response: |-
+    612F1100F4134817880
+    612F12105387FBF7FFC
+    612F12206830882FFFF
+    612F10562586F0CAE
+- expected_values:
+    M5_EOP: 3.214
+  response: |-
+    612F1101B62F30007D7
+    612F12154D601040104
+    612F122010407B9441C
+    612F123011A0E9D0610
+    612F1249C4B00BDFFFF
+    612F10562586F0C8E
+- expected_values:
+    M5_EOP: 4.187
+  response: |-
+    612F12102387EF77FF6
+    612F12206850885FFFF
+    612F10562586F105B
+- expected_values:
+    M5_EOP: 3.176
+  response: |-
+    612F121F2387EB77FF5
+    612F122067B087DFFFF
+    612F10562586F0C68
+- expected_values:
+    M5_EOP: 3.418
+  response: |-
+    612F121F73881A08005
+    612F12206800880FFFF
+    612F10562586F0D5A
+- expected_values:
+    M5_EOP: 3.766
+  response: |-
+    612F121FC387E5F7FF2
+    612F12206840883FFFF
+    612F10562586F0EB6
+- expected_values:
+    M5_EOP: 3.572
+  response: |-
+    612F121FF387E8F7FF3
+    612F122067F087EFFFF
+    612F10562586F0DF4
+- expected_values:
+    M5_EOP: 3.269
+  response: |-
+    612F121FF387FC77FFC
+    612F122067E087EFFFF
+    612F10562586F0CC5
+- expected_values:
+    M5_EOP: 4.396
+  response: |-
+    612F122067F087EFFFF
+    612F10562586F112C
+- expected_values:
+    M5_EOP: 3.954
+  response: |-
+    612F1220680087DFFFF
+    612F10562586F0F72
+- expected_values:
+    M5_EOP: 2.712
+  response: |-
+    612F123003B0E9A0105
+    612F124C96E00C5FFFF
+    612F10562586F0A98
