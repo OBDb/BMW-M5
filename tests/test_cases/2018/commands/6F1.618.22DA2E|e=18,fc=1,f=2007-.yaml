@@ -9,7 +9,9 @@ test_cases:
   response: 618F10562DA2E0303
 - expected_values:
     M5_GEAR: DRIVE
+    M5_GEAR_SHIFT: DRIVE
   response: 618F10562DA2E0503
 - expected_values:
     M5_GEAR: DRIVE
+    M5_GEAR_SHIFT: DRIVE
   response: 618F10562DA2E0803
